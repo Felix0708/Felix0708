@@ -21,4 +21,4 @@ being studied:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongchul&show_icons=true&theme=default)](https://github.com/Felix0708/github-readme-stats)
+[![Donchul's github stats](https://github-readme-stats.vercel.app/api?username=Donchul&show_icons=true&theme=default)](https://github.com/Felix0708/github-readme-stats)
