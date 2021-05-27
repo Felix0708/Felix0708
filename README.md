@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=%20FELIX%20%20&height=200&fontSize=100)
 
-Hello, My name is DongchulLee(Felix Lee).
+Hello, My name is Dongchul Lee(Felix Lee).
 
 I develop using Javascript and Python.
 
