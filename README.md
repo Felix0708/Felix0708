@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFelix0708&count_bg=%2379C83D&title_bg=%23555555&&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/Felix0708?style=social)
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&text=%20FELIX%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dongchul%20LEE&fontSize=90&animation=twinkling&fontAlignY=37)
 
 <h3 align="center">📘 FELIX's Profile 📘</h3>
 
