@@ -24,6 +24,6 @@ Backend:
 ![Felix's github stats](https://github-readme-stats.vercel.app/api?username=Felix0708&show_icons=true)
 
 ### Contact
-<a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://felix0708.tistory.com/"/></a>&nbsp
-<a href="https://www.instagram.com/ssafy_donguri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafy_donguri/"/></a>&nbsp
+<a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://felix0708.tistory.com/"/></a>
+<a href="https://www.instagram.com/ssafy_donguri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafy_donguri/"/></a>
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
