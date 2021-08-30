@@ -6,10 +6,6 @@
 <h3 align="center">📘 FELIX's Profile 📘</h3>
 
 <br>
-<p align="center">안녕하세요, 개발자 이동철입니다.</p>
-<p align="center">Hello, My name is Dongchul Lee(Felix Lee).<br> I develop using Javascript and Python.<br> So, I will make a project that applies what I have studied one by one.<br> I am interested in web development.<br> I seek to become a full stack developer.</p>
-
-<br>
 <h3 align="center">🛠 Tech 🛠</h3>
 
 <p align="center"> Languages </p>
