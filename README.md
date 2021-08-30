@@ -10,21 +10,25 @@
 <p align="center">Hello, My name is Dongchul Lee(Felix Lee).<br> I develop using Javascript and Python.<br> So, I will make a project that applies what I have studied one by one.<br> I am interested in web development.<br> I seek to become a full stack developer.</p>
 
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech 🛠</h3>
 
 <p align="center"> Languages </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
 </p>
 
-<p align="center"> Frameworks & Tools </p>
+<p align="center"> Web Front-End </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
+</p>
+
+<p align="center"> Web Back-End </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
 </p>
 
 <br>
