@@ -4,12 +4,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dongchul%20LEE&fontSize=90&animation=twinkling&fontAlignY=37)
 
 # 📘 FELIX's Profile 📘
+<br>
 
 ## 🛠 Tech 🛠
 
 |Languages|Web Frontend|Web Backend|
 |---|---------|---|
 |![a](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)|![a](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+<br>
 
 ## 🍎 contact me 🍎
 <a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://felix0708.tistory.com/"/></a>
