@@ -18,12 +18,15 @@ I like to make things I want to make.
 |![a](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)|![a](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 <br>
 
+<!--
+[![Dongchul Lee's github stats](https://github-readme-stats.vercel.app/api?username=Felix0708&show_icons=true&theme=dracula)](https://github.com/Felix0708/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix0708&layout=compact&theme=dracula)](https://github.com/Felix0708)
+-->
+<br>
+
 ## 🍎 contact me 🍎
 <a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://felix0708.tistory.com/"/></a>
 <a href="https://www.instagram.com/ssafy_donguri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafy_donguri/"/></a>
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
 
-<!--
-[![Donghoon Lee's github stats](https://github-readme-stats.vercel.app/api?username=dongjay00&show_icons=true&theme=dracula)](https://github.com/dongjay00/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongjay00&layout=compact&theme=dracula)](https://github.com/dongjay00)
--->
+
