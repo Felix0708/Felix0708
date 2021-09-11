@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dongchul%20LEE&fontSize=90&animation=twinkling&fontAlignY=37)
 
-<h3 align="center">📘 FELIX's Profile 📘</h3>
+# 📘 FELIX's Profile 📘
 
 <br>
 ## 🛠 Tech 🛠
