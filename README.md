@@ -37,11 +37,5 @@
 </p>
 
 <br>
-<h3 align="center"> 🍋 Etc 🍋 </h3>
-
-[![Dongchul Lee's github stats](https://github-readme-stats.vercel.app/api?username=Felix0708&show_icons=true&theme=dracula)](https://github.com/Felix0708/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix0708&layout=compact&theme=dracula)](https://github.com/Felix0708)
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=twinkling)
