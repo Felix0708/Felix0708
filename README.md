@@ -12,15 +12,14 @@ I like to make things I want to make.
 <br>
 
 ## 🛠 Tech 🛠
-
 |Languages|Web Frontend|Web Backend|
 |---|---------|---|
 |![a](https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white) ![b](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)|![a](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)|![a](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 <br>
-
+<!-- 
 [![Dongchul Lee's github stats](https://github-readme-stats.vercel.app/api?username=Felix0708&show_icons=true&theme=dracula)](https://github.com/Felix0708/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix0708&layout=compact&theme=dracula)](https://github.com/Felix0708)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix0708&layout=compact&theme=dracula)](https://github.com/Felix0708) 
+-->
 
 ## 🍎 contact me 🍎
 <a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://felix0708.tistory.com/"/></a>
