@@ -6,6 +6,8 @@
 <br>
 I'm Lee Dong-chul (FELIX).
 <br>
+I am a junior developer.
+<br>
 I like to make things I want to make.
 <br>
 
