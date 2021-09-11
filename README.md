@@ -4,6 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dongchul%20LEE&fontSize=90&animation=twinkling&fontAlignY=37)
 
 # 📘 FELIX's Profile 📘
+안녕하세요, HELLO, こんにちは
+I am Lee Dong-chul (FELIX).
+I like to make things I want to make.
 <br>
 
 ## 🛠 Tech 🛠
