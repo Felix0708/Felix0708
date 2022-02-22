@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/felix0708?style=social)
 
 # 📘 FELIX's Profile 📘
-안녕하세요. Hello. こんにちは。
+이동철
 <br>
 I'm Lee Dong-chul (FELIX).
 <br>
