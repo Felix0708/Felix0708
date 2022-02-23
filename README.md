@@ -3,12 +3,7 @@
 
 # 📘 FELIX's Profile 📘
 이동철
-<br>
-I'm Lee Dong-chul (FELIX).
-<br>
-I am a junior developer.
-<br>
-I like to make things I want to make.
+I am a Junior Developer.
 
 ## 🛠 Tech 🛠
 |Languages|Web Front-end|Web Back-end|
