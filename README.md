@@ -4,7 +4,7 @@
 # 📘 FELIX's Profile 📘
 이동철
 <br>
-I am a Junior Developer.
+Junior Developer.
 
 ## 🛠 Tech 🛠
 |Languages|Web Front-end|Web Back-end|
