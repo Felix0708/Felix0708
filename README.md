@@ -19,7 +19,7 @@ Junior Developer.
 ## 🍎 contact me 🍎
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
 <a href="https://www.instagram.com/ssafy_donguri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafy_donguri/"/></a>
-<a href="https://blog.naver.com/PostList.naver?blogId=sok8079"><img src="https://img.shields.io/badge/Blog-19CE60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=sok8079"/></a>
+<a href="https://blog.naver.com/PostList.naver?blogId=sok8079"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Kakao&logoColor=white&link=https://blog.naver.com/PostList.naver?blogId=sok8079"/></a>
 <!-- <a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a> -->
 
 
