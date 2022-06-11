@@ -16,10 +16,17 @@ Junior Developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix0708&layout=compact&theme=dracula)](https://github.com/Felix0708) 
 -->
 
+## 🍋 Career 🍋
+
+|Period|Company|
+|---|------|
+|2022.04 ~ |Hitachi-ch,Crop.|
+
 ## 🍎 contact me 🍎
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
 <a href="https://www.instagram.com/ssafy_donguri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssafy_donguri/"/></a>
 <a href="https://felix0708.tistory.com/"><img src="https://img.shields.io/badge/Tistory[Blog]-eb531f?style=flat-square&logo=Kakao&logoColor=white&link=https://felix0708.tistory.com/"/></a>
+<a href="https://www.linkedin.com/in/dongchul-lee-457891232"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dongchul-lee-457891232"/></a>
 <!-- <a href="https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://general-viola-ee5.notion.site/Donghoon-Lee-5bd1c8b6cd9c40efbc94f61d4cff3212"/></a> -->
 
 
