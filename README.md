@@ -20,7 +20,7 @@ Junior Developer.
 
 |Period|Company|
 |---|------|
-|2022.04 ~ |Hitachi-ch,Crop.|
+|2022.04 ~ |Hitachi-ch|
 
 ## 🍎 contact me 🍎
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
