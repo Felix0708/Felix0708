@@ -6,14 +6,17 @@
 <br>
 Junior Developer
 
-## Tech
+## Skill & Tech
 TypeScript　・　Python　・　C#　・　JAVA ｜　React　・　React Native　・　Next.js　・　SpringBoot
 
 ## Career
 
 |Period|Company|work|
 |---|------|---|
-|2022.04 ~ |Hitachi-ch|● 해외 ATM 지폐 Vertical Cassete 기능 검사 프로그램 유지 및 보수</br>● 해외 ATM 지폐 Horizontal Cassete 기능 검사 프로그램 개발</br>● ATM 지폐 카세트 외관 검사 프로그램 개발</br>● 지폐 카세트들의 기능 라이브러리 (Function Library) 프로그램 유지 및 보수</br>● 기계의 고장 여부 확인을 위한 AI를 활용한 소리 분석 시스템 개발</br>● 시험관 식별 AI 활용 프로그램 개발</br>● 운용 중인 다양한 지폐 카세트 검사 프로그램 (Operation Management)의 유지 및 보수</br>● ATM AR 서비스 위한 AI을 이용한 챗봇 개발|
+|2022.04 ~ |Hitachi Channel Solutions|● Overseas ATM Bill Vertical Cassette Functional Inspection Program Maintenance</br>● Development of Overseas ATM Bill Horizontal Cassette Functional Inspection Program</br>● ATM Bill Cassette Appearance Inspection Program Development</br>● Maintenance of the function library program of banknote cassettes</br>&nbsp; &nbsp; Function Library(FL)</br>● Development of a sound analysis system using AI to check the failure of the machine</br>● Development of test tube identification AI utilization program</br>● Maintenance of various banknote cassette inspection programs in operation</br>&nbsp; &nbsp; Operation Management(OM)</br>● Developing chatbots using AI for ATM AR services |
+
+## Ceritification
+AWS Certified Developer - Associate　・　JLPT N1
 
 ## contact me
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
