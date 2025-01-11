@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/felix0708?style=social)
 
 # FELIX's Profile
-이동철
+이동철 (LEE DONGCHUL)
 <br>
 Junior Developer
 
