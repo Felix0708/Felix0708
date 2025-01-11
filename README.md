@@ -7,7 +7,7 @@
 Junior Developer
 
 ## Tech
-TypeScript　・　Python　・　C#　・　JAVA ｜　React Next.js SpringBoot
+TypeScript　・　Python　・　C#　・　JAVA ｜　React　・　React Native　・　Next.js　・　SpringBoot
 
 ## Career
 
