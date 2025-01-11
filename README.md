@@ -16,7 +16,7 @@ TypeScript　・　Python　・　C#　・　JAVA ｜　React　・　React Nati
 |2022.04</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~</br>2025.XX|Hitachi Channel Solutions|● Maintenance of Overseas ATM Bill Vertical Cassette Functional Inspection Program</br>● Development of Overseas ATM Bill Horizontal Cassette Functional Inspection Program</br>● Development of ATM Bill Cassette Appearance Inspection Program</br>● Maintenance of the function library Program of banknote cassettes</br>● Development of a sound analysis APP using AI to check the gear abnormality</br>● Development of test tube identification AI utilization Program</br>● Maintenance of various Bill cassette inspection Program in operation</br>● Development of Chatbots using AI for ATM AR service Program|
 
 ## Ceritification
-AWS Certified Developer - Associate　・　JLPT N1
+AWS Certified Developer - Associate　・　JLPT(日本語能力試験) N1
 
 ## contact me
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
