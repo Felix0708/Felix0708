@@ -13,7 +13,7 @@ TypeScript　・　Python　・　C#　・　JAVA ｜　React　・　React Nati
 
 |Period|Company|work|
 |---|------|---|
-|2022.04 ~ |Hitachi-ch|---|
+|2022.04 ~ |Hitachi-ch|● 해외 ATM 지폐 Vertical Cassete 기능 검사 프로그램 유지 및 보수</br>● 해외 ATM 지폐 Horizontal Cassete 기능 검사 프로그램 개발</br>● ATM 지폐 카세트 외관 검사 프로그램 개발</br>● 지폐 카세트들의 기능 라이브러리 (Function Library) 프로그램 유지 및 보수</br>● 기계의 고장 여부 확인을 위한 AI를 활용한 소리 분석 시스템 개발</br>● 시험관 식별 AI 활용 프로그램 개발</br>● 운용 중인 다양한 지폐 카세트 검사 프로그램 (Operation Management)의 유지 및 보수</br>● ATM AR 서비스 위한 AI을 이용한 챗봇 개발|
 
 ## contact me
 <a href="mailto:chuls0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuls0708@gmail.com"/></a>
