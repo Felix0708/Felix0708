@@ -7,9 +7,9 @@
 Junior Developer
 
 ## Skill & Tech
-|C# ・ Python ・ TypeScript ・ JAVA|
-|---|
-|React ・ Next.js ・ SpringBoot|
+C# ・ Pyhon ・ TypeScript ・ JAVA
+<br>
+React ・ Next.js ・ SpringBoot
 
 ## Career
 
